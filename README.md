@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niamul Hasan</h1>
-<h3 align="center">I'm a Full Stack web developer with a special interest in UI and UX designing.I'm a Full Stack web developer with a special interest in UI and UX designing.</h3>
+<h3 align="center">I'm a Full Stack web developer with a special interest in UI and UX designing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niamulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="niamulhasan" /> </p>
 
